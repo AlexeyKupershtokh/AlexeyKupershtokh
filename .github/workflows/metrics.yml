@@ -21,7 +21,7 @@ jobs:
           # Options
           user: AlexeyKupershtokh
           template: classic
-          config_display: columns
+          #config_display: columns
           base: header, activity, repositories, metadata
           config_timezone: UTC
           plugin_achievements: yes
