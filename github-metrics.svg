@@ -226,7 +226,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x8</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x8</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x6</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x7</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x5</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x4</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x4</span></div>
@@ -281,7 +281,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2025, 09:18:57 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 09:17:14 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
